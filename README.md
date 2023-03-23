@@ -15,8 +15,10 @@ I approached computer science on Jenuary 2022 after quitting my job as a PLC pro
 
 - 📫 How to reach me:    [<img  height="25px" width="25px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/alberto-t-876425203/)
    [<img height="25px" width="25px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>](mailto:albertotoscano997@gmail.com)
+<br>
 
 ## Languages and Tools
+<br>
 
 #### Programming languages
 <p align="center"> 
@@ -64,6 +66,18 @@ I approached computer science on Jenuary 2022 after quitting my job as a PLC pro
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat)](https://www.djangoproject.com/">
   </a> 
+</p>
+
+#### Operating Systems
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
 </p>
 
 <!--
