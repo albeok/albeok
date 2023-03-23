@@ -11,7 +11,7 @@ I approached computer science on Jenuary 2022 after quitting my job as a PLC pro
 - 🤓 Always learning new things. Lately I've been spending my spare time learning javascript libraries like React and also Web3 framework like hardhat
 - 👯 I’m looking to collaborate in the Web3 environment
 - 💬 Ask me about crypto, travel, computers, games
-- ⚡ Fun fact: I'm trying to learn spanish
+- ⚡ Fun fact: I'm learning spanish
 
 - 📫 How to reach me:    [<img  height="25px" width="25px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/alberto-t-876425203/)
    [<img height="25px" width="25px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>](mailto:albertotoscano997@gmail.com)
