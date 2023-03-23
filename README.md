@@ -18,7 +18,6 @@ I approached computer science on Jenuary 2022 after quitting my job as a PLC pro
 <br>
 
 ## Languages and Tools
-<br>
 
 #### Programming languages
 <p align="center"> 
