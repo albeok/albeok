@@ -1,4 +1,9 @@
 ## Hi World! I'm Alberto from Italy👋
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/albeok)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-t-876425203/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:albertotoscano997@gmail.com)
+
 I approached computer science on Jenuary 2022 after quitting my job as a PLC programmer. Since then my first attempt was learning python because it resulted being easy to learn. Then I learnt Django too, Solidity and then Brownie for testing smart contracts. While I was focused on my real personal web3 project, I realized I needed to learn Javascript. And here I am 😄
 
 - 🤖 My personal project in my `pinned`
@@ -9,7 +14,7 @@ I approached computer science on Jenuary 2022 after quitting my job as a PLC pro
 - ⚡ Fun fact: I'm trying to learn spanish
 
 - 📫 How to reach me:    [<img  height="25px" width="25px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/alberto-t-876425203/)
-   [<img height="25px" width="25px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>](mailto:alberto_toscano97@yahoo.it)
+   [<img height="25px" width="25px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>](mailto:albertotoscano997@gmail.com)
 
 ## Languages and Tools
 
