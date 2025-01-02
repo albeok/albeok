@@ -38,6 +38,7 @@
    ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
    ![Kate](https://img.shields.io/badge/-Kate-1F8A70?logo=kde&style=for-the-badge&logoColor=white)
    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--
 **albeok/albeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
