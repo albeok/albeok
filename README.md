@@ -1,6 +1,3 @@
-## How to reach me
-   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-toscano/)
-
 ## Languages and Tools
 
 #### Frontend Development
